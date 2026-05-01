@@ -1,0 +1,1 @@
+{\n  "version": 2,\n  "experimentalServices": {\n    "frontend": {\n      "entrypoint": "frontend",\n      "routePrefix": "/",\n      "framework": "vite"\n    },\n    "backend": {\n      "entrypoint": "backend",\n      "routePrefix": "/_/backend"\n    }\n  }\n}
